@@ -20,6 +20,17 @@
         Aspirations: ['CyberSecurity', 'CloudComputing', 'MachineLearning']
 
       }
+      
+ &nbsp;
+## :pushpin: My proyects
+<p>
+  <a><img width="45%" src="https://github.com/OliveraIgnacio/oliveraignacio/blob/main/Images/CountriesApp/LandingPage.jpeg?raw=true" alt="Landing Page" ></a>
+  <a><img width="45%" src="https://github.com/OliveraIgnacio/oliveraignacio/blob/main/Images/CountriesApp/Home.jpeg?raw=true" alt="Home"></a>
+  <a><img width="45%" src="https://github.com/OliveraIgnacio/oliveraignacio/blob/main/Images/CountriesApp/FiltersAndSorts.jpeg?raw=true" alt="FiltersAndSort"></a>
+  <a><img width="45%" src="https://github.com/OliveraIgnacio/oliveraignacio/blob/main/Images/CountriesApp/Form.jpeg?raw=true" alt="Form"></a>
+  <a><img width="45%" src="https://github.com/OliveraIgnacio/oliveraignacio/blob/main/Images/CountriesApp/CountryDetail.jpeg?raw=true" alt="DetailCountry"></a>
+  <a><img width="45%" src="https://github.com/OliveraIgnacio/oliveraignacio/blob/main/Images/CountriesApp/SearchByName.jpeg?raw=true" alt="SearchCountry"></a>
+</p>
 
 ## :paperclip: How to reach me:
 <span >
