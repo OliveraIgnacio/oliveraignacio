@@ -23,6 +23,7 @@
       
  &nbsp;
 ## :pushpin: My proyects
+<h3>Country App - [Academic] <h3>
 <p>
   <a><img width="45%" src="https://github.com/OliveraIgnacio/oliveraignacio/blob/main/Images/CountriesApp/LandingPage.jpeg?raw=true" alt="Landing Page" ></a>
   <a><img width="45%" src="https://github.com/OliveraIgnacio/oliveraignacio/blob/main/Images/CountriesApp/Home.jpeg?raw=true" alt="Home"></a>
