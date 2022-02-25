@@ -3,10 +3,11 @@
 
   <h3>About me<h3>
       
-
-     Proactive and efficient FullStack developer, really fast learner that can easily adapt to rapid change 
-     work environments and not afraid of working under pressure. Ready to work with multidisciplinary teams 
-     I love clean, scalable and DRY code.
+                Proactive and efficient FullStack developer who learns very fast and can easily 
+             adapt to rapidly changing work environments and is not afraid to work under pressure. 
+                My preferred technologies are React - Redux - Node.js - Express - PostgreSQL. 
+             I am ready to work with multidisciplinary teams and be able to acquire new knowledge. 
+                    My future goal is to train and be able to work in Cybersecurity.
 ```      
 
       const skills = {
