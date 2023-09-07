@@ -8,7 +8,7 @@
        I consider myself a dedicated, creative, and detail-oriented person, I work well in work teams
 </p>
 
-´´´
+´´´´
       let skills = {
           'Javascript',
           'Typescript',
@@ -24,7 +24,7 @@
           'SQL'
           'Informix'
       }
-´´´
+´´´´
 
       
  &nbsp;
