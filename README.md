@@ -1,4 +1,4 @@
-<img width='100%' height='400px' src='https://img2.rtve.es/i/ctv-6pe-portada-noticias_1614352808020.png'/>
+<img width='100%' height='400px' src='https://steamuserimages-a.akamaihd.net/ugc/959716467390461639/225CC48D4506774DC96356B9ACCA2CBB65B1CF2D/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true'/>
 <h1 align="center"> Hi, my name is Ignacio Olivera, I'm a Software Developer! 👋 :computer: </h1>
 
 
