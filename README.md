@@ -1,11 +1,14 @@
 <h1 align="center"> Hi, my name is Ignacio Olivera, I'm a Software Developer!  :computer: </h1>
 
 
-```      
-      const aboutMe = 'Full-stack developer with experience in the design, development, testing,
+<h5> About me:</h5>
+<p>
+      Full-stack developer with experience in the design, development, testing,
       and maintenance of web applications with the domain of different platforms, languages, and systems.
-       I consider myself a dedicated, creative, and detail-oriented person, I work well in work teams.'
+       I consider myself a dedicated, creative, and detail-oriented person, I work well in work teams
+</p>
 
+```    
       let skills = {
           'Javascript',
           'Typescript',
