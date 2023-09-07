@@ -8,23 +8,31 @@
        I consider myself a dedicated, creative, and detail-oriented person, I work well in work teams
 </p>
 
-´´´´
-      let skills = {
-          'Javascript',
-          'Typescript',
-          'NodeJs',
-          'Express',
-          'C#',
-          '.net',
-          'React',
-          'React-Native',
-          'Redux',
-          'React-Hooks',
-          'Angular',
-          'SQL'
-          'Informix'
-      }
-´´´´
+<h5>Current Stack: </h5>
+      <ul>
+            <li>
+                  Javascript / Typescript
+            </li>
+            <li>
+                  React js / Redux js / Next js
+            </li>
+            <li>
+                  Angular
+            </li>
+            <li>
+                  Node js / Express
+            </li>
+            <li>
+                  C# / .Net
+            </li>
+            <li>
+                  SQL / Mongo / Informix
+            </li>
+            <li>
+                  More is coming...
+            </li>
+      </ul>
+
 
       
  &nbsp;
