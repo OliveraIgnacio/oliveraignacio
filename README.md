@@ -1,10 +1,9 @@
 <img width='100%' height='400px' src='https://img2.rtve.es/i/ctv-6pe-portada-noticias_1614352808020.png'/>
 <h1 align="center"> Hi, my name is Ignacio Olivera, I'm a Software Developer! 👋 :computer: </h1>
 
-  <h3>About me<h3>
-Full-stack developer with experience in the design, development, testing, and maintenance of web applications with the domain of different platforms, languages, and systems. I consider myself a dedicated, creative, and detail-oriented person, I work well in work teams.
 
 ```      
+      const aboutMe = 'Full-stack developer with experience in the design, development, testing, and maintenance of web applications with the domain of different platforms, languages, and systems. I consider myself a dedicated, creative, and detail-oriented person, I work well in work teams.'
 
       const skills = {
           'Javascript',
