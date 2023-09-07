@@ -21,7 +21,6 @@
           'Angular',
           'SQL'
           'Informix'
-          
       }
 ```
       
