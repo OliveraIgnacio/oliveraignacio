@@ -2,8 +2,6 @@
 <h1 align="center"> Hi, my name is Ignacio Olivera, I'm a Software Developer! 👋 :computer: </h1>
 
   <h3>About me<h3>
-      
-               Full-stack developer with experience in the design, development, testing, and maintenance of web applications with the domain of different platforms, languages, and systems. I consider myself a dedicated, creative, and detail-oriented person, I work well in work teams.
 Full-stack developer with experience in the design, development, testing, and maintenance of web applications with the domain of different platforms, languages, and systems. I consider myself a dedicated, creative, and detail-oriented person, I work well in work teams.
 
 ```      
