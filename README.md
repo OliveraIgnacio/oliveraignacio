@@ -3,9 +3,11 @@
 
 
 ```      
-      const aboutMe = 'Full-stack developer with experience in the design, development, testing, and maintenance of web applications with the domain of different platforms, languages, and systems. I consider myself a dedicated, creative, and detail-oriented person, I work well in work teams.'
+      const aboutMe = 'Full-stack developer with experience in the design, development, testing,
+      and maintenance of web applications with the domain of different platforms, languages, and systems.
+       I consider myself a dedicated, creative, and detail-oriented person, I work well in work teams.'
 
-      const skills = {
+      let skills = {
           'Javascript',
           'Typescript',
           'NodeJs',
